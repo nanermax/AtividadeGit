@@ -48,7 +48,7 @@
 <h2>Colaboradores</h2>
 <ul>
 <table>
-    <th><img src="img/colaborador1.jpg" alt="Substitua a imagem, por uma sua" width="100px" heigth="100px"></th>
+    <th><img src="img/colaborador2.jpg" alt="Substitua a imagem, por uma sua" width="100px" heigth="100px"></th>
     <th><a href="">Nome do Colaborador (com o link do seu perfil)</a></th>
     <tr>
     <th><img src="img/colaborador.jpg" width="100px" heigth="100px">
