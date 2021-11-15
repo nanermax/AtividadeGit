@@ -9,7 +9,7 @@
     <th>Front-end (Senai)</th>
     <tr>
     <th><img src="img/linkedin.jpg" width="100px" heigth="100px"></th></th>
-    <th><a href="https://www.linkedin.com/in/guilherme-leme-2bab21212/">Lekedin</a></th>
+    <th><a href="https://www.linkedin.com/in/guilherme-leme-2bab21212/">Linkedin</a></th>
     <tr>
 </table>
 <hr>
