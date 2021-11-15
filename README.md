@@ -58,7 +58,7 @@
         <th>
             <img src="img/colaborador.jpg" width="100px" heigth="100px">
         <th>
-            <a href="">Nome do Colaborador (com o link do seu perfil)</a><
+            <a href="https://github.com/nanermax"> Nanermax</a><
          </th>
     <tr>
         <th>
