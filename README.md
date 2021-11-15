@@ -59,4 +59,8 @@
     <tr>
 </table>
 <p>Basta informar uma imagem que vc queira que te represente, ou até a sua verdadeira mesmo! Apos isso informe o seu nome e dentro do href="Informe o link do seu perfil"</p>
+<ul>
+    <li>src - Coloque o link do endereço da imagem ou acrescete a imagem na pasta img.</li>
+    <li>href - Insira o endereço (url) do seu perfil.</li>
+</ul>
 <!-- Para continuar com essa sessão basta repetir as duas linhas após o "tr" -->
