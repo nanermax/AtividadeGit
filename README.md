@@ -5,10 +5,10 @@
     <th><img src="img/gui.jpg" width="100px" heigth="100px"></th>
     <th>Guilherme Leme</th>
     <tr>
-    <th><img src="img/linkedin.jpg" width="100px" heigth="100px"></th>
+    <th><img src="img/front.png" width="100px" heigth="100px">
     <th>Front-end (Senai)</th>
     <tr>
-    <th><img src="img/front.png" width="100px" heigth="100px"></th>
+    <th><img src="img/linkedin.jpg" width="100px" heigth="100px"></th></th>
     <th><a href="https://www.linkedin.com/in/guilherme-leme-2bab21212/">Lekedin</a></th>
     <tr>
 </table>
