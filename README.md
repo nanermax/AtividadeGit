@@ -48,15 +48,33 @@
 <h2>Colaboradores</h2>
 <ul>
 <table>
-    <th><img src="img/colaborador2.jpg" alt="Substitua a imagem, por uma sua" width="100px" heigth="100px"></th>
-    <th><a href="">Nome do Colaborador (com o link do seu perfil)</a></th>
+    <th>
+        <img src="img/colaborador2.jpg" alt="Substitua a imagem, por uma sua" width="100px" heigth="100px">
+    </th>
+    <th>
+        <a href="">Nome do Colaborador (com o link do seu perfil)</a>
+    </th>
     <tr>
-    <th><img src="img/colaborador.jpg" width="100px" heigth="100px">
-    <th><a href="">Nome do Colaborador (com o link do seu perfil)</a></th>
+        <th>
+            <img src="img/colaborador.jpg" width="100px" heigth="100px">
+        <th>
+            <a href="">Nome do Colaborador (com o link do seu perfil)</a><
+         </th>
     <tr>
-    <th><img src="img/colaborador3.jpg" width="100px" heigth="100px"></th></th>
-    <th><a href="https://github.com/maaptom">Marco Antonio Alves Pereira</a></th>
-    <th><a href="https://avatars.githubusercontent.com/u/65371964?v=4">Eduardo Lopes Santos</a></th>
+        <th>
+            <img src="img/colaborador3.jpg" width="100px" heigth="100px">
+        </th>
+        <th>
+            <a href="https://github.com/maaptom">Marco Antonio Alves Pereira</a>
+        </th>
+    <tr>
+    <tr>
+        <th>
+            <img src="https://avatars.githubusercontent.com/u/65371964?v=4" width="100px" heigth="100px">
+        </th>
+        <th>
+            <a href="https://github.com/maaptom"Eduardo Lopes</a>
+        </th>
     <tr>
 </table>
 <p>Basta informar uma imagem que vc queira que te represente, ou até a sua verdadeira mesmo! Apos isso informe o seu nome e dentro do href="Informe o link do seu perfil"</p>
