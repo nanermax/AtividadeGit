@@ -1,2 +1,2 @@
-<h1>Atividade Versionamento - Git e GitHub</h1>
+<h1 style="text-align: center;">Atividade Versionamento - Git e GitHub</h1>
 <hr>
