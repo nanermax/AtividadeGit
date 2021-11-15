@@ -55,7 +55,7 @@
     <th><a href="">Nome do Colaborador (com o link do seu perfil)</a></th>
     <tr>
     <th><img src="img/colaborador3.jpg" width="100px" heigth="100px"></th></th>
-    <th><a href="">Nome do Colaborador (com o link do seu perfil)</a></th>
+    <th><a href="https://github.com/maaptom">Marco Antonio Alves Pereira</a></th>
     <tr>
 </table>
 <p>Basta informar uma imagem que vc queira que te represente, ou até a sua verdadeira mesmo! Apos isso informe o seu nome e dentro do href="Informe o link do seu perfil"</p>
