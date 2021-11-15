@@ -73,7 +73,7 @@
             <img src="https://avatars.githubusercontent.com/u/65371964?v=4" width="100px" heigth="100px">
         </th>
         <th>
-            <a href="https://github.com/maaptom"Eduardo Lopes</a>
+            <a href="https://github.com/doardin">Eduardo Lopes</a>
         </th>
     <tr>
 </table>
