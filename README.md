@@ -2,13 +2,13 @@
 <hr>
 <h2>Informações Pessoais<h2>
 <table>
-    <th><img src="img/gui.jpg"></th>
+    <th><img src="img/gui.jpg" width="100px" heigth="100px"></th>
     <th>Guilherme Leme</th>
     <tr>
-    <th><img src="img/gui/linkedin.jpg"></th>
+    <th><img src="img/linkedin.jpg" width="100px" heigth="100px"></th>
     <th>Front-end (Senai)</th>
     <tr>
-    <th><img src="img/front.png"></th>
+    <th><img src="img/front.png" width="100px" heigth="100px"></th>
     <th><a href="https://www.linkedin.com/in/guilherme-leme-2bab21212/">Lekedin</a></th>
     <tr>
 </table>
