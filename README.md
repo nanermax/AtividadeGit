@@ -54,7 +54,7 @@
     <th><img src="img/colaborador.jpg" width="100px" heigth="100px">
     <th><a href="">Nome do Colaborador (com o link do seu perfil)</a></th>
     <tr>
-    <th><img src="img/colaborador2.jpg" width="100px" heigth="100px"></th></th>
+    <th><img src="img/colaborador3.jpg" width="100px" heigth="100px"></th></th>
     <th><a href="">Nome do Colaborador (com o link do seu perfil)</a></th>
     <tr>
 </table><!-- Para continuar com essa sessão basta repetir as duas linhas após o "tr" -->
