@@ -57,4 +57,6 @@
     <th><img src="img/colaborador3.jpg" width="100px" heigth="100px"></th></th>
     <th><a href="">Nome do Colaborador (com o link do seu perfil)</a></th>
     <tr>
-</table><!-- Para continuar com essa sessão basta repetir as duas linhas após o "tr" -->
+</table>
+<p>Basta informar uma imagem que vc queira que te represente, ou até a sua verdadeira mesmo! Apos isso informe o seu nome e dentro do href="Informe o link do seu perfil"</p>
+<!-- Para continuar com essa sessão basta repetir as duas linhas após o "tr" -->
