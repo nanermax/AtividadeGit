@@ -8,3 +8,27 @@
     <th><img src="https://miro.medium.com/max/400/1*HN1Hw2ZHpndoRdfo9AHNPA.png" width="100px" heigth="100px"></th>
 </table>
 <hr>
+<h2>Comandos Usados/Pesquisados</h2>
+<ul>
+    <li>git config --global user.name "Nome"</li>
+    <li>git config --global user.email "email"</li>
+    <li>git config --list</li>
+    <li>git config –l </li>
+    <li>git config --global -l</li>
+    <li>ssh-keygen -t rsa -b 4096 -C "email"</li>
+    <li>ssh-add ~/.ssh/id_rsa</li>
+    <li>git init</li>
+    <li>git status</li>
+    <li>git add .</li>
+    <li>git branch -M "Branch"</li>
+    <li>git commit -m "Vommit"</li>
+    <li>git tag -a "Tag"</li>
+    <li>git log</li>
+    <li>git remote show</li>
+    <li>git push -u origin master</li>
+    <li>git remote -v</li>
+    <li>git pull</li>
+    <li>git show</li>
+    <li>cat license</li>
+    <li>git fetch origin</li>
+</ul>
